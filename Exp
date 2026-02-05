@@ -1,0 +1,590 @@
+[
+  {
+    "id": "2026-01_nitro_vpn_perk",
+    "title": "Nitro VPN Perk",
+    "warning": false,
+    "deleted": false,
+    "userBadge": {
+      "text": "USER"
+    },
+    "details": [
+      {
+        "type": "rollout",
+        "items": [
+          {
+            "name": "Non inclus",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Contrôle",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Variant 1",
+            "pct": "",
+            "desc": "Avantage VPN activé pour les abonnés Nitro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-01_voice_channel_duration_mobile",
+    "title": "Voice Channel Duration (Mobile)",
+    "warning": true,
+    "deleted": false,
+    "details": [
+      {
+        "type": "rollout",
+        "items": [
+          {
+            "name": "Non inclus",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Contrôle",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Traitement 1",
+            "pct": "",
+            "desc": "Afficher la durée à côté du Voice Channel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-12_nitro_s_rewards",
+    "title": "Nitro S Rewards",
+    "warning": false,
+    "deleted": false,
+    "details": [
+      {
+        "type": "info",
+        "text": "<strong>Discord teste un nouveau système de récompenses pour les abonnés Nitro.</strong>"
+      },
+      {
+        "type": "info",
+        "text": "Ce système permet d'obtenir des Orbs gratuits sans regarder de publicités."
+      },
+      {
+        "type": "rollout",
+        "items": [
+          {
+            "name": "Option 1",
+            "pct": "",
+            "desc": "300 Orbs offerts aux abonnés Nitro"
+          },
+          {
+            "name": "Option 2",
+            "pct": "",
+            "desc": "700 Orbs offerts aux abonnés Nitro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-12_desktop_message_previews",
+    "title": "Desktop Message Previews",
+    "warning": false,
+    "deleted": false,
+    "details": [
+      {
+        "type": "info",
+        "text": "<strong>Discord intègre officiellement :</strong> aperçus des messages dans la liste des messages privés — extrait du dernier message affiché sous le nom."
+      },
+      {
+        "type": "info",
+        "text": "Nouveau paramètre dans <strong>Texte et images</strong> : Tout / Non lus uniquement / Aucun. Le bouton « Masquer les informations personnelles » supprime automatiquement ces aperçus."
+      },
+      {
+        "type": "rollout",
+        "items": [
+          {
+            "name": "Variante 1",
+            "pct": "",
+            "desc": "Priorité au statut - Aperçu seulement si l'utilisateur n'a pas de statut actif"
+          },
+          {
+            "name": "Variante 2",
+            "pct": "",
+            "desc": "Priorité au message - L'aperçu masque le statut, priorité au message récent"
+          }
+        ]
+      },
+      {
+        "type": "info",
+        "text": "<a class=\"link\" href=\"https://discord.com/channels/1370746793188393000/1398039871188369602/1450889186000507036\" target=\"_blank\" rel=\"noopener\">↗ Voir l'image</a>"
+      }
+    ]
+  },
+  {
+    "id": "2025-12_voice_channel_hoisting",
+    "title": "Voice Channel Hoisting",
+    "warning": false,
+    "deleted": false,
+    "details": [
+      {
+        "type": "constraint",
+        "text": "L'identifiant de guilde doit être : 267054589960912898"
+      },
+      {
+        "type": "rollout",
+        "items": [
+          {
+            "name": "Non inclus",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Contrôle",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Traitement 1",
+            "pct": "",
+            "desc": "Forme d'onde et surlignage"
+          },
+          {
+            "name": "Traitement 2",
+            "pct": "",
+            "desc": "Icône de forme d'onde uniquement"
+          }
+        ]
+      },
+      {
+        "type": "population",
+        "name": "Population 0",
+        "constraints": "L'ID de guilde doit être inférieur à 1448109448877834240.",
+        "rollout": [
+          {
+            "name": "Non inclus",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Contrôle",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Traitement 1",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Traitement 2",
+            "pct": "",
+            "desc": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-11_tida_webform",
+    "title": "Tida Webform",
+    "warning": false,
+    "deleted": false,
+    "userBadge": {
+      "text": "USER"
+    },
+    "details": [
+      {
+        "type": "rollout",
+        "items": [
+          {
+            "name": "Control",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Treatment 1",
+            "pct": "",
+            "desc": "Enabled"
+          }
+        ]
+      },
+      {
+        "type": "info",
+        "text": "<a class=\"link\" href=\"https://discord.com/channels/1370746793188393000/1398039871188369602/1450889186000507036\" target=\"_blank\" rel=\"noopener\">↗ Voir l'image</a>"
+      }
+    ]
+  },
+  {
+    "id": "2025-10_role_explorer",
+    "title": "Role Explorer",
+    "warning": false,
+    "deleted": false,
+    "details": [
+      {
+        "type": "info",
+        "text": "Menu qui permet aux utilisateurs non administrateurs de voir quels membres ont un rôle spécifique (cliquez sur le nom du rôle dans la liste des membres)."
+      },
+      {
+        "type": "info",
+        "text": "<a class=\"link\" href=\"https://fv5-4.files.fm/down.php?i=bsrwcbacqg&view&n=image.png\" target=\"_blank\" rel=\"noopener\">↗ Voir l'image</a>"
+      }
+    ]
+  },
+  {
+    "id": "2025-10_go_live_zoom_pan",
+    "title": "Go Live Zoom/Pan",
+    "warning": false,
+    "deleted": false,
+    "userBadge": {
+      "text": "USER"
+    },
+    "details": [
+      {
+        "type": "info",
+        "text": "<strong>Discord travaille sur une nouvelle interaction liée aux diffusions Go Live</strong> qui offrira la possibilité de zoomer et déplacer la vue directement dans un stream."
+      },
+      {
+        "type": "info",
+        "text": "Cette nouveauté devrait permettre aux spectateurs (et aux diffuseurs) de mettre en avant des zones précises de l'écran partagé, rendant ainsi plus lisibles les textes de petite taille, le code ou certains éléments de l'interface, sans nécessiter de changement de résolution du flux d'origine."
+      },
+      {
+        "type": "rollout",
+        "items": [
+          {
+            "name": "Variant",
+            "pct": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "type": "info",
+        "text": "<a class=\"link\" href=\"https://discord.com/channels/1370746793188393000/1449827245798588546/1449827276840636416\" target=\"_blank\" rel=\"noopener\">↗ Voir l'image</a>"
+      }
+    ]
+  },
+  {
+    "id": "2025-10_icymi_desktop_client",
+    "title": "ICYMI Desktop Client",
+    "warning": false,
+    "deleted": false,
+    "userBadge": {
+      "text": "USER"
+    },
+    "details": [
+      {
+        "type": "rollout",
+        "items": [
+          {
+            "name": "Control",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Treatment 1",
+            "pct": "",
+            "desc": "Activer ICYMI client de bureau"
+          }
+        ]
+      },
+      {
+        "type": "info",
+        "text": "<a class=\"link\" href=\"https://discord.com/channels/1370746793188393000/1398039871188369602/1431671105583579136\" target=\"_blank\" rel=\"noopener\">↗ Voir l'image</a>"
+      }
+    ]
+  },
+  {
+    "id": "2025-10_voice_invite_suggestions",
+    "title": "Voice Invite Suggestions",
+    "warning": false,
+    "deleted": true,
+    "details": []
+  },
+  {
+    "id": "2025-09_project_turbo",
+    "title": "Project Turbo",
+    "warning": false,
+    "deleted": false,
+    "details": [
+      {
+        "type": "constraint",
+        "text": "La guilde doit disposer de la fonctionnalité INTERNAL_EMPLOYEE_ONLY."
+      },
+      {
+        "type": "rollout",
+        "items": [
+          {
+            "name": "Non inclus",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Contrôle",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Traitement 1",
+            "pct": "",
+            "desc": "Turbo activé"
+          }
+        ]
+      },
+      {
+        "type": "population",
+        "name": "Population 0",
+        "constraints": "La guilde doit disposer de l'une des fonctionnalités : BYPASS_SLOWMODE_PERMISSION_MIGRATION_COMPLETE, PIN_PERMISSION_MIGRATION_COMPLETE.",
+        "rollout": [
+          {
+            "name": "Non inclus",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Contrôle",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Traitement 1",
+            "pct": "",
+            "desc": "Turbo activé"
+          }
+        ]
+      },
+      {
+        "type": "population",
+        "name": "Population 1",
+        "constraints": "",
+        "rollout": [
+          {
+            "name": "Non inclus",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Contrôle",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Traitement 1",
+            "pct": "",
+            "desc": "Turbo activé"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-08_request_to_stream",
+    "title": "Request to Stream",
+    "warning": false,
+    "deleted": false,
+    "details": [
+      {
+        "type": "constraint",
+        "text": "L'identifiant de guilde doit être l'un des suivants : 1136423398608744588, 119138216639987713, 1199152226233483358, 426434256290578472, 822219052402606132, 993957185493160057"
+      },
+      {
+        "type": "rollout",
+        "items": [
+          {
+            "name": "Non inclus",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Contrôle",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Traitement 1",
+            "pct": "",
+            "desc": "Icônes d'état VC"
+          },
+          {
+            "name": "Traitement 2",
+            "pct": "",
+            "desc": "Demande de diffusion sans notification de superposition"
+          },
+          {
+            "name": "Traitement 3",
+            "pct": "",
+            "desc": "Demande de diffusion avec notification de superposition"
+          }
+        ]
+      },
+      {
+        "type": "population",
+        "name": "Population 0",
+        "constraints": "L'ID de guilde doit être inférieur à 1410247478476800000",
+        "rollout": [
+          {
+            "name": "Non inclus",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Contrôle",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Traitement 1",
+            "pct": "",
+            "desc": "Icônes d'état VC"
+          },
+          {
+            "name": "Traitement 2",
+            "pct": "",
+            "desc": "Demande de diffusion sans notification"
+          },
+          {
+            "name": "Traitement 3",
+            "pct": "",
+            "desc": "Demande de diffusion avec notification"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-08_expiration_par_defaut_des_invitations_guilde",
+    "title": "Expiration par défaut des invitations Guilde",
+    "warning": true,
+    "deleted": false,
+    "details": [
+      {
+        "type": "group",
+        "label": "Non inclus"
+      },
+      {
+        "type": "group",
+        "label": "Contrôle"
+      },
+      {
+        "type": "treatment",
+        "label": "Traitement 1",
+        "description": "14 jours"
+      },
+      {
+        "type": "treatment",
+        "label": "Traitement 2",
+        "description": "30 jours"
+      },
+      {
+        "type": "treatment",
+        "label": "Traitement 3",
+        "description": "60 jours"
+      }
+    ]
+  },
+  {
+    "id": "2025-08_back_forward",
+    "title": "Back Forward Navigation",
+    "warning": false,
+    "deleted": false,
+    "userBadge": {
+      "text": "USER"
+    },
+    "details": [
+      {
+        "type": "info",
+        "text": "<strong>Navigation améliorée :</strong> Boutons Retour/Suivant dans la barre de titre."
+      },
+      {
+        "type": "rollout",
+        "items": [
+          {
+            "name": "Traitement 1",
+            "pct": "",
+            "desc": "Boutons Retour/Suivant - icônes de barre de titre 18 px"
+          },
+          {
+            "name": "Traitement 2",
+            "pct": "",
+            "desc": "Boutons Retour/Suivant - icônes de barre de titre 20 px"
+          }
+        ]
+      },
+      {
+        "type": "population",
+        "name": "Population cible",
+        "constraints": "30% des utilisateurs",
+        "rollout": [
+          {
+            "name": "Non inclus",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Traitement 1",
+            "pct": "",
+            "desc": "18px icons"
+          },
+          {
+            "name": "Traitement 2",
+            "pct": "",
+            "desc": "20px icons"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-07_display_name_styles_setter_mobile",
+    "title": "Display Name Styles Setter Mobile",
+    "warning": false,
+    "deleted": false,
+    "details": [
+      {
+        "type": "rollout",
+        "items": [
+          {
+            "name": "Treatment 1",
+            "pct": "",
+            "desc": "Active l'interface utilisateur permettant de définir les styles d'affichage des noms"
+          }
+        ]
+      },
+      {
+        "type": "info",
+        "text": "<a class=\"link\" href=\"https://discord.com/channels/1370746793188393000/1398039871188369602/1465367810866810900\" target=\"_blank\" rel=\"noopener\">↗ Voir l'image</a>"
+      }
+    ]
+  },
+  {
+    "id": "2025-01_voice_user_activities",
+    "title": "Voice User Activities on Hover",
+    "warning": true,
+    "deleted": false,
+    "details": [
+      {
+        "type": "rollout",
+        "items": [
+          {
+            "name": "Non inclus",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Contrôle",
+            "pct": "",
+            "desc": ""
+          },
+          {
+            "name": "Traitement 1",
+            "pct": "",
+            "desc": "Activer les activités lorsque l'utilisateur passe la souris dessus"
+          }
+        ]
+      }
+    ]
+  }
+]
