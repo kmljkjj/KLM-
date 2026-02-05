@@ -137,7 +137,7 @@ Variation 1
 
 2026-01_voice_channel_duration_mobile,Voice
  Channel Duration (Mobile),746686384,user
-
+Treatment 1: Display the duration next to the Voice Channel
 
 2026-01-wishlist-sku-preview,,1132337047,apex_user
 
@@ -145,9 +145,15 @@ Variation 1
 
 2026-02-av1-decode-ios,,1349047954,apex_user
 
+2026-02_ voice_user_hover_activities
+Treatment 1: Enable activities on user hover
+
 2026-02-av1-decode-mac,,2415033776,apex_user
 
 2026-02_expand_voice_invite_suggestions,Expand Voice Invite Suggestions,2746125982,guild
+Treatment 1: Control
+Treatment 2: More Suggestions
+(10)
 
 2026-02-go-live-hdr,,3017368913,apex_user
 
