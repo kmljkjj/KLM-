@@ -1,28 +1,96 @@
 2026-01-av-content-update,,1163902904,apex_user
+Variations
+Variation 0
+Variation 1
+
 2026-01-background-sync-fix,,857450881,apex_user
+
 2026-01_boost_progress_bar_default_on,Boost Progress Bar Default On,505708914,guild
+
 2026-01-bug-reporter,,132028798,apex_user
+Variation 0
+Variation 1
+
 2026-01-business-profile-linking,,4153877303,apex_user
+Variation 0
+Variation 1
+
 2026-01-chat-loading-indicator,,591197151,apex_user
+
 2026-01-clips-buffer-size,,1351962049,apex_user
+Variation 0
+Variation 1
+Variation 2
+Variation 3
+
 2026-01-clips-max-pending-tasks,,3146252643,apex_user
+Variation 0
+Variation 1
+Variation 2
+Variation 3
+Variation 4
+
 2026-01-collectibles-mobile-move-purchase-disclaimer,,657396275,apex_user
+
 2026-01-content-inventory-application-widget-preview,,3445234122,apex_user
+Variation 0
+Variation 1
+
 2026-01-expand-voice-invite-suggestions,,3229861701,apex_user
+Variation O
+Variation 1 
+Removed Apex Experiment
+
 2026-01-family-center-v3,,45432460,apex_user
+Variation O
+Variation 1
+
 2026-01-fast-connect-identify,,365813772,apex_user
+Variation O
+Variation 1
+
 2026-01-friend-is-online-notif-rate-limits,,578981345,apex_user
+Variation 0
+Variation 1
+Variation 2
+Variation 3
+
 2026-01-friends-in-server,,2424783045,apex_user
+Variation 0
+Variation 1
+
 2026-01-game-blocklist,,448349575,apex_user
+Variation 0
+
 2026-01-h264-mf-decode-electron,,1223130622,apex_user
+Variation 0
+Variation 1
+
 2026-01-h264-mf-decode-voice,,3649169422,apex_user
+Variation 0
+Variation 1
+
 2026-01-haven-client,,510807683,apex_user
+Variation 0
+Variation 1
+
 2026-01-improved-dm-send,,4125928516,apex_user
+Variation 0
+Variation 1
+Variation 2
+
 2026-01-in-app-notifications-negative-test,,3849195490,apex_user
+
 2026-01-in-app-notification-navigation,,2393566580,apex_user
+
 2026-01-ios-apptransactionid-tracking,,2428557551,apex_user
+
 2026-01-ios-push-notif-json-fix,,4086254591,apex_user
+Variation 0
+Variation 1
+
 2026-01-less-personalized-ads,,175545446,apex_user
+
 2026-01-marketing-banner-cta-action,,528880348,apex_user
 2026-01-main-view-tooltip-action-sheets-v2,,3496194455,apex_user
 2026-01-mobile-profile-engagement-button,,134800279,apex_user
